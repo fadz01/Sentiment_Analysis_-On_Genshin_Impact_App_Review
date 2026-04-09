@@ -3,3 +3,7 @@ This project conducted sentiment analysis on 1501 Genshin Impact app reviews fro
 
 
 Three machine learning models including Deep Learning, K-Nearest Neighbour, and Decision Tree are built using RapidMiner. The dataset is split into training and testing. For the model performance, this project will evaluate it using accuracy, precision, recall, and detailed classification result will be analysed using confusion matrix.
+
+## SENTIMENT ANALYSIS
+The file upload is to large.
+please download the file here: [Genshin Impact](https://drive.google.com/drive/folders/1K9R1KAhfKRDBfAg1nltxUgCt3xojGcAV?usp=sharing)
